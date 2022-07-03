@@ -2,7 +2,7 @@
 
 ## I'm a DevOps Engineer, Technology Entusiast, Movie Buff, Traveller and Snowboarder!!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
+- 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to learn, climbing and Startup.
@@ -29,11 +29,5 @@
 [<img align="left" alt="GiLab" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" />]
 <br />
 <br />
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 [linkedin]: https://www.linkedin.com/in/kanchen-monnin-b284ab91/
