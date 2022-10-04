@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love to learn, climbing and Startup.
+- ⚡ I love to learn, climbing and snowboarding.
 
 ### Connect with me
 
